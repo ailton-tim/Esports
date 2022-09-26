@@ -19,5 +19,3 @@ Projeto desenvolvido na semana Next Level Week (NLW) da Rocketseat.
 ## Contato:
 
 E-mail: ailton_tim@yahoo.com.br
-
-Fone: (5511) 95554-3283
